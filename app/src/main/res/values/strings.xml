@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Kurzovni_listek</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <array name="currency">
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>USD</item>
+        <item>ZAR</item>
+        </array>
+    <array name="currency_whole_name">
+        <item>Australský dolar</item>
+        <item>Bulharský lev</item>
+        <item>Brazilský real</item>
+        <item>Kanadský dolar</item>
+        <item>Švýcarský frank</item>
+        <item>Čínský juan</item>
+        <item>Česká koruna</item>
+        <item>Dánská koruna</item>
+        <item>Britská libra</item>
+        <item>Hongkongský dolar</item>
+        <item>Chorvatská kuna</item>
+        <item>Maďarský forint</item>
+        <item>Indonéská rupie</item>
+        <item>Izraelský šekel</item>
+        <item>Japonský jen</item>
+        <item>Jihokorejský won</item>
+        <item>Mexické peso</item>
+        <item>Malajsijský ringgit</item>
+        <item>Norská koruna</item>
+        <item>Novozélandský dolar</item>
+        <item>Filipínské peso</item>
+        <item>Polský zlotý</item>
+        <item>Rumunský nový lei</item>
+        <item>Ruský rubl</item>
+        <item>Švédská koruna</item>
+        <item>Singapurský dolar</item>
+        <item>Thajský baht</item>
+        <item>Turecký lira</item>
+        <item>Americký dolar</item>
+        <item>Jihoafrický rand</item>
+    </array>
+    <string name="title_activity_kurzovni_listek">kurzovni_listek</string>
+    <string name="title_activity_compare">compare</string>
+
+
+</resources>
